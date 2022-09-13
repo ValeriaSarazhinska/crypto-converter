@@ -1,0 +1,18 @@
+body {
+    background: #002340;
+    color: #e5e5fc;
+}
+
+h1 {
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input {
+    color: #e5e5fc;
+}
