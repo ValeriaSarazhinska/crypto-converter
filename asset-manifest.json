@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crypto-converter/static/css/main.65917e47.css",
+    "main.js": "/crypto-converter/static/js/main.dab2a88c.js",
+    "static/media/usd.png": "/crypto-converter/static/media/usd.eecc7effc61fd688c4cc.png",
+    "static/media/btc.png": "/crypto-converter/static/media/btc.1f0f4321bf8778e93c7b.png",
+    "static/media/usdtobtc.png": "/crypto-converter/static/media/usdtobtc.fae56b5dcc20c02df939.png",
+    "index.html": "/crypto-converter/index.html",
+    "main.65917e47.css.map": "/crypto-converter/static/css/main.65917e47.css.map",
+    "main.dab2a88c.js.map": "/crypto-converter/static/js/main.dab2a88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65917e47.css",
+    "static/js/main.dab2a88c.js"
+  ]
+}
